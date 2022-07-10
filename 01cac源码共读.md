@@ -63,21 +63,3 @@
 ## [分析一下tsconfig里面的配置项](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 
 - tsconfig这个文件指定了哪些文件需要应用到这些编译规则。其中tsconfig这个文件里面包含`extends`、`compilerOptions`、`files`、 `include`、 `exclude`等文件
-
-## 画一下这个库的程序流程图
-
-## 尝试通过单元测试调试库
-
-## 这个库应该如何使用？
-
-## 如何理解 option 
-
-## 如何理解 command 
-
-## 如何理解 action 
-
-## 如何实现连续调用的api
-
-## Brackets 应该如何使用？Brackets  是如何实现的？
-
-## Negated Options 是如何实现的？
