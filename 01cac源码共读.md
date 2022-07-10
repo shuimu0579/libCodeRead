@@ -5,8 +5,6 @@
 - [cac问题](https://www.wolai.com/cuixiaorui/qKNw5XF2bYCYbxs7zBaiEN)
 - [cac-github](https://github.com/cacjs/cac)
 
-[TOC]
-
 ## .editorconfig  是干嘛的
 
 - editorconfig是用于跨不同的编辑器和IDE为多个开发人员维护一致的编码风格的配置文件。
